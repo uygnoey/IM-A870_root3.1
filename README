@@ -1,0 +1,40 @@
+IM-A870_root3.1
+===============
+
+Vega IRON Rooting tool 3.1
+
+Chaingelog
+
+1. Chainfire SuperSU 1.45 to 1.51 update
+2. Korean & English support
+3. Bug fix
+4. Exit and KDA-Developers site auto run
+
+Before rooting
+1. Backup
+2. USB debugging check
+3. USB driver intsall
+
+Infomation
+
+Superuser version
+SuperSU 1.51 / Superuser(CWM) 1.0.1.8 / Superuser(ChainsDD) 3.1.3
+
+Original Firmware downloader source
+http://blog.csdn.net/su_ky/article/details/7728877
+
+ADBdriverinstaller source 
+http://adbdriver.com/downloads/
+
+Recovery source
+ CWM : http://cafe.naver.com/skydevelopers/257564
+ TWRP : http://blog.csdn.net/benjaminwan/article/details/9092353
+
+Created by KDA-Developers
+
+Menu
+
+1. Rooting
+2. Kernel tampered cnt reset
+3. Original firmware upload
+4. Vega IRON Rooting tool exit
